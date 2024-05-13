@@ -25,7 +25,7 @@
 ### Commit Message
 - `docs: {something}`: `README` 등 문서 수정
 - `present: {title, chapterName, ...}`: 발표자료 업로드
-- `comment: {title, chatperName, ...}`: 정리, 공유할 내용 등 스터디를 위한 기록물 
+- `comment: {title, chapterName, ...}`: 정리, 공유할 내용 등 스터디를 위한 기록물 
 
 <br>
 
